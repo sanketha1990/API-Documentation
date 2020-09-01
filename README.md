@@ -18,6 +18,7 @@ This tool will generate the swagger API documentation for the specified package 
 5.spring-boot-starter-data-jpa
 6.spring-boot-starter-web
 
+```
 ## Executing
 
 Command to start the utility.
